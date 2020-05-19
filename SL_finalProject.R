@@ -1,4 +1,5 @@
 setwd("C:/Users/emily/Documents/uni/fourth/ss3850/group")
+#data retrieved from Kaggle
 myData<-read.csv("heart.csv", header = TRUE)
 
 #install.packages("leaps")
